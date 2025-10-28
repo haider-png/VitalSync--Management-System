@@ -34,4 +34,4 @@ The VitalSync Management System is a Python-based hospital management applicatio
 ## Contributors
 - **Khizar Ahmed (K24-5558)**  
 - **Ayan Ahmed (K24-5541)**  
-- **Haider Husnain (K24-5589)**
+- **M Haider Hasnain (K24-5589)**
