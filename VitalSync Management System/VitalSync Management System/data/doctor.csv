@@ -1,0 +1,16 @@
+Doctor ID,Name,Department,Contact Number,Specialization,Availability (Days)
+D1001,Dr.Adeel Khan,Cardiology,3001230001,Heart Specialist,"Mon, Wed, Fri"
+D1002,Dr. Sarah Malik,Neurology,3112340002,Brain & Nerves,"Tue, Thu"
+D1003,Dr. Imran Shaikh,Orthopedics,3213450003,Bone Specialist,Mon to Fri
+D1004,Dr. Nida Zafar,Dermatology,3314560004,Skin Diseases,"Mon, Tue, Thu"
+D1005,Dr. Usman Tariq,Pediatries,3415670005,Child Specialist,"Wed, Fri"
+D1006,Dr. Ayesha Anwar,Gynecology,3016780006,Women's Health,"Tue, Thu, Sat"
+D1007,Dr. Kamran Shah,ENT,3117890007,"Ear, Nose, Throat",Mon to Thu
+D1008,Dr. Farah Aslam,Ophthalmology,3218900008,Eye Specialist,"Mon, Wed, Fri"
+D1009,Dr. Bilal Qureshi,Gastroenterology,3319010009,Digestive Issues,"Tue, Thu"
+D1010,Dr. Hina Yousuf,Psychiatry,3410120010,Mental Health,Mon to Sat
+D1011,Dr. Naveed Akhtar,General Surgery,3011230011,Surgeon,Mon to Fri
+D1012,Dr. Maria Butt,Radiology,3112340012,Medical imaging,"Wed, Thu"
+D1013,Dr. Faisal Jamil,Nephrology,3213450013,Kidney Specialist,"Tue, Fri"
+D1014,Dr. Sana Rizvi,Pulmonology,3314560014,Lung Specialist,"Mon, Tue, Thu"
+D1015,Dr. Danish Farooq,Urology,3415670015,Urinary Tract,"Wed, Sat"

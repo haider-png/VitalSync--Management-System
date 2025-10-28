@@ -1,0 +1,17 @@
+Medicine ID,Medicine Name,Quantity,Expiry Date,Price (PKR),Supplier
+MED3000,Paracetamol,123,3/20/2026,350,Supplier A
+MED3001,Amoxicillin,174,11/15/2025,490,Supplier B
+MED3002,Ibuprofen,92,12/25/2025,1200,Supplier C
+MED3003,Aspirin,56,5/30/2026,200,Supplier A
+MED3004,Cetirizine,181,1/10/2026,800,Supplier D
+MED3005,Metformin,110,9/19/2025,540,Supplier E
+MED3006,Lisinopril,157,6/15/2025,1500,Supplier F
+MED3007,Omeprazole,142,12/10/2025,700,Supplier A
+MED3008,Diazepam,185,4/5/2026,650,Supplier B
+MED3009,Simvastatin,74,7/25/2026,1000,Supplier C
+MED3010,Losartan,158,2/18/2026,430,Supplier D
+MED3011,Ciprofloxacin,127,8/30/2025,850,Supplier E
+MED3012,Hydrochlorothiazide,64,6/21/2026,1200,Supplier F
+MED3013,Prednisone,113,10/11/2025,1300,Supplier A
+MED3014,Loratadine,103,5/6/2025,750,Supplier B
+MED3015,Insulina,24,4/20/2026,5000,Supplier C

@@ -1,0 +1,19 @@
+User ID,Username,Role,Password,Status,Name
+U4000,admin1,Admin,admin123,Inactive,Ahmed
+U4001,patient1,Patient,password1,Active,Ali
+U4002,patient2,Patient,password2,Inactive,Sameer
+U4003,admin2,Admin,adminpass2,Active,Zafar
+U4004,patient3,Patient,password3,Inactive,Junaid
+U4005,admin3,Admin,adminpass3,Active,Haider
+U4006,patient4,Patient,password4,Active,Bilal
+U4007,patient5,Patient,password5,Inactive,Safeer
+U4008,patient6,Patient,password6,Active,Mahad
+U4009,patient7,Patient,password7,Active,Zubair
+U4010,admin4,Admin,admin4,Active,Ayan
+U4011,patient8,Patient,password8,Active,Michael
+U4012,patient9,Patient,password9,Inactive,Simon
+U4013,admin5,Admin,adminpass5,Active,Sara
+U4014,patient10,Patient,password10,Active,Lee
+U4015,a,Admin,a,Active,Ruffle
+U4016,s,Patient,s,Active,Kevin
+U4019,Khizr,Patient,khizr,Active,Khizr
